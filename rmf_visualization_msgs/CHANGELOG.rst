@@ -2,9 +2,9 @@
 Changelog for package rmf_visualization_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.2.1 (2023-06-05)
+1.3.0 (2023-06-06)
 ------------------
-* Switch CHANGELOG format to rst.
+* Switch to rst changelogs (`#7 <https://github.com/open-rmf/rmf_visualization_msgs/pull/7>`_)
 * Contributors: Yadunund
 
 1.2.0 (2021-06-02)
