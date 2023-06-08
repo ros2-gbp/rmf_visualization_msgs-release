@@ -1,3 +1,26 @@
+## rmf_visualization_msgs (rolling) - 1.4.0-1
+
+The packages in the `rmf_visualization_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling rmf_visualization_msgs` on `Thu, 08 Jun 2023 09:19:46 -0000`
+
+The `rmf_visualization_msgs` package was released.
+
+Version of package(s) in repository `rmf_visualization_msgs`:
+
+- upstream repository: https://github.com/open-rmf/rmf_visualization_msgs.git
+- release repository: https://github.com/ros2-gbp/rmf_visualization_msgs-release.git
+- rosdistro version: `1.2.0-4`
+- old version: `1.2.0-4`
+- new version: `1.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rmf_visualization_msgs (iron) - 1.3.0-1
 
 The packages in the `rmf_visualization_msgs` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron rmf_visualization_msgs` on `Wed, 07 Jun 2023 06:55:14 -0000`
