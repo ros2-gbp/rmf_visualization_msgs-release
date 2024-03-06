@@ -1,0 +1,27 @@
+ros-rolling-rmf-visualization-msgs (1.4.0-2noble) noble; urgency=high
+
+
+
+ -- yadu <yadunund@openrobotics.org>  Thu, 08 Jun 2023 00:00:00 -0000
+
+ros-rolling-rmf-visualization-msgs (1.3.0-2noble) noble; urgency=high
+
+  * Switch to rst changelogs (#7 <https://github.com/open-rmf/rmf_visualization_msgs/pull/7>)
+  * Contributors: Yadunund
+
+ -- yadu <yadunund@openrobotics.org>  Tue, 06 Jun 2023 00:00:00 -0000
+
+ros-rolling-rmf-visualization-msgs (1.2.0-2noble) noble; urgency=high
+
+  * Renamed package to rmf_visualization_msgs: (#2 <https://github.com/open-rmf/rmf_visualization_msgs/pull/2>)
+
+ -- yadu <yadunund@openrobotics.org>  Wed, 02 Jun 2021 00:00:00 -0000
+
+ros-rolling-rmf-visualization-msgs (1.0.0-2noble) noble; urgency=high
+
+  * Message definition with parameters to query the rmf traffic schedule
+  * Contributors: Grey, Yadu
+
+ -- yadu <yadunund@openrobotics.org>  Mon, 22 Jun 2020 00:00:00 -0000
+
+
